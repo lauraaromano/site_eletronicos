@@ -12055,3 +12055,13 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
+
+body{
+  background-color: #cdaf7b;
+}
+
+.text-center{
+  background-color: #59291b;
+  color: #f3ecbe;
+}
+
